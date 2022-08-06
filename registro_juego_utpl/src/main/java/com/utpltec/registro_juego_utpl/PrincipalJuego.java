@@ -16,7 +16,7 @@ public class PrincipalJuego {
     public static void main( String[] args )
     {
         String cOpcion;
-        String SaltoLinea;
+        //String SaltoLinea;
         Scanner scannerObj = new Scanner(System.in);
         //coleccion para almacenar jugadores
         ArrayList<Jugador> colJugador = new ArrayList<>();
